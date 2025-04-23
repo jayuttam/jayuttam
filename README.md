@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 3rem; font-weight: bold; color: #00FFE0; text-shadow: 2px 2px #0e0e0e;">
-  Jay Uttam — <span style="color: #FFD700;">Data Science Explorer</span>
+  hy! I am Jay <span style="color: #FFD700;">Data Science Explorer</span>
 </h1>
 
 <p align="center">
