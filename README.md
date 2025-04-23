@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=480&lines=Built+for+Data+Science+enthusiasts;Crafted+by+a+CS+student+from+LPU;Track+GitHub+stats%2C+code%2C+and+insights;Level+up+your+developer+journey!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1200&color=00D1FF&center=true&vCenter=true&width=650&lines=🚀+For+Data+Science+enthusiasts+and+coders!;🎓+CS+Student+at+LPU;📊+Analyze+GitHub+stats%2C+languages%2C+contributions;🌟+Level+up+your+developer+journey!" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Data Science Animation" />
