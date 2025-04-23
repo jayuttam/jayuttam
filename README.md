@@ -1,5 +1,5 @@
-<h1 align="center">
-  🚀 Jay Uttam — Data Science Explorer
+<h1 align="center" style="font-size: 3rem; font-weight: bold; color: #00FFE0; text-shadow: 2px 2px #0e0e0e;">
+  🚀 Jay Uttam — <span style="color: #FFD700;">Data Science Explorer</span>
 </h1>
 
 <p align="center">
@@ -35,7 +35,9 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,chartjs,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,sqlite,mysql,vscode,github" />
+  <img src="https://img.shields.io/badge/-DBMS-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
